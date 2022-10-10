@@ -5,7 +5,7 @@
 
 <p >
   <samp>
-    - ⚡ I’m Top Rated Mobile and Web Developer in Upwork<br>
+    - ⚡ I’m Top Rated Plus Mobile and Web Developer in Upwork<br>
     - 🔭 I’m currently working on a bunch of mobile and web projects<br>
     - 🌱 I’m currently learning Blockchain and Data Structure<br>
     - 👯 I'm looking to collaborate if you have a great idea<br>
