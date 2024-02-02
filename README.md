@@ -1,5 +1,3 @@
-<img src="https://camo.githubusercontent.com/d3c11aff5cc280b915ec978dc40f1868f217699ead0d3f762fd983fc015f1a3a/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d766965772669643d316d6333305f753251477a6958444979736b50733675547843345f4c4d364e5155" align="center" height="" width="100%" />
-
 ### <div align="center">I'm Safwan, a full-time Mobile and Web Developer 👋</div>  
 
 
