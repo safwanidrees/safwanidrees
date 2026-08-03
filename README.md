@@ -27,9 +27,6 @@ Software Engineer with 4+ years of experience building mobile apps, web platform
   - [GitHub](https://github.com/safwanidrees)
 
 <br />
-<div style="display: flex; align-items: center;">
-<img width="45%" src="https://streak-stats.demolab.com?user=safwanidrees&theme=radical" alt="Safwan's GitHub Streak" />
-</div>
 
 ---
 
@@ -88,25 +85,21 @@ I've shipped 15+ apps to production — here are some of the most recent ones. A
 <table>
   <tbody width="100%">
     <tr>
-      <th width="33%">The Commons</th>
       <th width="33%">Do Your Order</th>
       <th width="33%">Sportsmet</th>
+      <th width="33%">MarketWhale</th>
     </tr>
     <tr>
-      <td><img src="https://safwanportfolio.web.app/commons_preview.png" alt="The Commons" height="180" width="100%"></td>
       <td><img src="https://safwanportfolio.web.app/doyo_preview.webp" alt="Do Your Order" height="180" width="100%"></td>
       <td><img src="https://safwanportfolio.web.app/sportsmet_preview.png" alt="Sportsmet" height="180" width="100%"></td>
+      <td><img src="https://safwanportfolio.web.app/marketwhale_preview.png" alt="MarketWhale" height="180" width="100%"></td>
     </tr>
     <tr>
-      <td>School-day screen management with a custom native VPN that auto-activates on geofence & schedule — zero manual student action.</td>
       <td>Full-stack restaurant SaaS (Flutter + React) — real-time orders, KDS, thermal printing, Stripe, 14+ languages.</td>
       <td>Sports social platform with live scores, pools, and in-app subscriptions.</td>
+      <td>Finance app surfacing institutional "whale" trading signals with an AI chat assistant for real-time stock analysis.</td>
     </tr>
     <tr>
-      <td>
-        <a href="https://apps.apple.com/us/app/the-commons-students/id6746174591">iOS</a> ·
-        <a href="https://play.google.com/store/apps/details?id=com.the_commons.app">Android</a>
-      </td>
       <td>
         <a href="https://apps.apple.com/us/app/do-your-order/id1558810951?platform=iphone">iOS</a> ·
         <a href="https://play.google.com/store/apps/details?id=com.app.doyourorder">Android</a> ·
@@ -116,27 +109,29 @@ I've shipped 15+ apps to production — here are some of the most recent ones. A
         <a href="https://apps.apple.com/app/sportsmet/id6742713344">iOS</a> ·
         <a href="https://play.google.com/store/apps/details?id=com.app.sportsmet">Android</a>
       </td>
-    </tr>
-    <tr>
-      <th width="33%">MarketWhale</th>
-      <th width="33%">SowGood</th>
-      <th width="33%">Omtech</th>
-    </tr>
-    <tr>
-      <td><img src="https://safwanportfolio.web.app/marketwhale_preview.png" alt="MarketWhale" height="180" width="100%"></td>
-      <td><img src="https://safwanportfolio.web.app/sowgood_preview.png" alt="SowGood" height="180" width="100%"></td>
-      <td><img src="https://safwanportfolio.web.app/omtech_preview.png" alt="Omtech" height="180" width="100%"></td>
-    </tr>
-    <tr>
-      <td>Finance app surfacing institutional "whale" trading signals with an AI chat assistant for real-time stock analysis.</td>
-      <td>Live coaching platform with WebRTC streaming, session recording/replay, and real-time chat.</td>
-      <td>Role-based asset management app for UK construction & facilities firms.</td>
-    </tr>
-    <tr>
       <td>
         <a href="https://apps.apple.com/pk/app/marketwhale/id6739746942">iOS</a> ·
         <a href="https://play.google.com/store/apps/details?id=com.meerkey.MarketWhale">Android</a>
       </td>
+    </tr>
+  </tbody>
+</table>
+
+<table>
+  <tbody width="100%">
+    <tr>
+      <th width="50%">SowGood</th>
+      <th width="50%">Omtech</th>
+    </tr>
+    <tr>
+      <td><img src="https://safwanportfolio.web.app/sowgood_preview.png" alt="SowGood" height="180" width="100%"></td>
+      <td><img src="https://safwanportfolio.web.app/omtech_preview.png" alt="Omtech" height="180" width="100%"></td>
+    </tr>
+    <tr>
+      <td>Live coaching platform with WebRTC streaming, session recording/replay, and real-time chat.</td>
+      <td>Role-based asset management app for UK construction & facilities firms.</td>
+    </tr>
+    <tr>
       <td>
         <a href="https://apps.apple.com/us/app/isowgood/id6751494964">iOS</a> ·
         <a href="https://play.google.com/store/apps/details?id=com.ithinksow.sowgood">Android</a> ·
